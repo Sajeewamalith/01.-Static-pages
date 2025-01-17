@@ -19,13 +19,13 @@ Hints:
   root.render(
            <main>
             <img src="react-logo.png" width="40px"/>
-            <h1></h1>
+            <h1>Fun facts about React!</h1>
             <ul>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
+                <li>Was first release in 2013</li>
+                <li>Was originally created by Jordan Walke</li>
+                <li>Has well over 200k starts on Github</li>
+                <li>Is maintained by Meta</li>
+                <li>Powers thousands of enterprise apps, including mobile apps</li>
             </ul>
            </main>
   )
